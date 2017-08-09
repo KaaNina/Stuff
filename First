@@ -1,0 +1,17 @@
+x=100
+print(float(x))
+Nina = "I awesome"
+print(Nina)
+
+lista='nINA IS SUPER COOL'.split()
+#print(lista)
+
+lista2='nINA IS SUPER COOL and awesome'.split()
+l=[]
+for i in lista:
+    for x in lista2:
+        l.append(x)
+
+print(l)
+for i in range(30):
+     print(i)
